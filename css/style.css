@@ -1,0 +1,255 @@
+
+/* header logo */
+.logo {
+  float: left;
+  height:200px;
+  width: 310px;
+}
+
+.logo img {
+  height: 200px;
+  width: 310px;
+}
+
+.header {
+  position: sticky;
+  background: white;
+  top: 0; 
+}
+
+a:hover {
+  color: gray;
+}
+
+.head {
+  float: right;
+  height: 200px;
+}
+  
+.head img {
+  height: 200px;
+  width: 650px;
+}
+
+/* navigation css */
+.navigation li {
+  display: inline;
+  padding-left: 65px;
+  padding-right: 65px;
+  color: white;
+  font-size: 15px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+.navigation {
+  background: black;
+  position: sticky;
+  top: 200px;
+  padding: 0;
+}
+
+nav ul {
+  width: 940px;
+  text-align: center;
+  margin-left: 0;
+  margin-top: 0;
+  padding: 20px;
+}
+
+/* Hero section */
+.hero img {
+  width: 960px;
+  height: 400px;
+}
+
+.hero {
+  background: rgb(248, 200, 67);
+}
+
+.hero p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  font-size: 40px;
+  text-shadow: 2px 2px 2px gray;
+  height: 60px;
+  font-weight: bold;
+}
+
+/* HeroInfo unit */
+.heroinfo {
+  text-align: center;
+  background: url(../img/hero1.jpg);
+  height: 200px;
+  width: 960px;
+}
+
+.heroinfo section {
+  margin-top: 75px;
+}
+
+h3 {
+  box-sizing: border-box;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-shadow: 2px 2px 2px black;
+  font-size: 20px;
+
+}
+
+/* Prefoot section */
+.prefoot a {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+.prefoot a:hover {
+  color: gray;
+}
+
+.prefoot {
+  text-align: center;
+  border-left: 0;
+  border-right: 0;
+  height: 200px;
+  width: 960px;
+  padding: 0;
+}
+
+.newsletter {
+  background: url(../img/newletter.jpg);
+  height: 200px;
+  width: 470px;
+  margin: 0;
+  padding: 0;
+}
+
+.newsletter h3 {
+  margin-top: 75px;
+  margin-left: 0;;
+}
+
+.links {
+  background: url(../img/links2.jpg) ;
+  height: 200px;
+  width: 480px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.links ul {
+  list-style-type: none;
+  text-align: center;
+  margin-top: 35px; 
+
+}
+
+.links ul li {
+  font-size: 20px;
+  display: block;
+  padding: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-shadow: 2px 2px 2px black;
+  font-style: italic;
+}
+
+/* Page 2 Hero1 unit */
+.hero1 {
+  background: url(../img/discover.jpg);
+  background-size: 960px 600px;
+}
+
+.recos {
+  text-align: center;
+  
+}
+
+.recos a {
+  text-decoration: none;
+}
+.recos h1 {
+  padding: 20px;
+  font-size: 60px;
+  text-decoration: none;
+  color: white;
+  text-shadow: 2px 2px 2px rgb(53, 53, 110);
+  
+}
+#Recording {
+color: white;
+}
+
+.recos h3 {
+padding: 20px;
+font-size: 40px;
+color: white;
+text-shadow: 2px 2px 2px rgb(53, 53, 110);
+}
+
+.albums section img {
+height: 170px;
+width: 200px;
+margin: 10px;
+}
+
+.albums section {
+padding: 10px;
+}
+
+/* Page 2 Prefoot unit */
+.offer {
+background: rgb(252, 213, 40);
+height: 80px;
+text-align: center;
+}
+.offer h1 {
+text-align: center;
+font-size: 30px;
+margin-top: 15px;
+}
+.offer h1 a {
+text-decoration: none;
+}
+
+#Preorder {
+color: black;
+}
+
+#Preorder:hover {
+color: gray;
+}
+
+/* Footer unit */
+.footer {
+  width: 960px;
+  text-align: center;
+  background: black;
+}
+
+.footer p {
+  color: white;
+  padding: 10px;
+}
+  
+.ext img {
+  width: 60px;
+  height: 60px;
+}
+
+.ext {
+  margin-top: 20px;
+}
+
+.grid_6 {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+
